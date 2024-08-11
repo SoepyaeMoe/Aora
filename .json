@@ -1,0 +1,36 @@
+{
+    "prompt": "",
+    "thumbnail": {
+        "mimeType": "image/jpeg",
+        "name": "SOE PYAE MOE Web Design Certificate.jpg",
+        "size": 676055,
+        "uri": "file:///data/user/0/host.exp.exponent/cache/DocumentPicker/190a6e9c-c5f8-45b0-971b-12d4b4c7e7a4.jpg"
+    },
+    "title": "",
+    "userId": "66aec4b2002aefc92f3f",
+    "video": null
+},
+{
+    "name": "SOE PYAE MOE FDC Certificate.jpg",
+    "size": 902909,
+    "type": "image/jpeg",
+    "uri": "file:///data/user/0/host.exp.exponent/cache/DocumentPicker/3f45d87d-3ec4-46ab-a4da-5670c414969c.jpg"
+}
+
+{
+    "$createdAt": "2024-08-06T14:44:07.920+00:00",
+    "$id": "66b236b6000a762e0f1d",
+    "$permissions": [
+        "read(\"user:66aec4ae00370df518f6\")",
+        "update(\"user:66aec4ae00370df518f6\")",
+        "delete(\"user:66aec4ae00370df518f6\")"
+    ],
+    "$updatedAt": "2024-08-06T14:44:07.920+00:00",
+    "bucketId": "66ae172b003b328fc99e",
+    "chunksTotal": 1,
+    "chunksUploaded": 1,
+    "mimeType": "image/jpeg",
+    "name": "PLC-Splitter-LOSS-CHART-1.jpg",
+    "signature": "c8446a61261bd20afeef68efdb3076c6",
+    "sizeOriginal": 83455
+}
